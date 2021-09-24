@@ -1,14 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is A0AE-41C6
-
- Directory of C:\Users\Onkar Kshirsagar\Desktop\GITOMK\MyFolder
-
-24-09-2021  10:03    <DIR>          .
-24-09-2021  10:03    <DIR>          ..
-23-09-2021  12:26                 0 inedx.html
-23-09-2021  13:25                12 README.md
-23-09-2021  14:20                 8 test.txt
-23-09-2021  14:20                 0 test123.txt
-24-09-2021  10:03                 0 test3.txt
-               5 File(s)             20 bytes
-               2 Dir(s)  140,129,198,080 bytes free
+Changes
